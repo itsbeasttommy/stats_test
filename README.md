@@ -1,6 +1,6 @@
 # stats_test
 Inferential Statistics Solutions – Statistical Tests in Python
-This repository contains my completed solutions for the Inferential Statistics Test, implemented in Python using real datasets like Iris and Student Performance.
+This repository contains my completed solutions for the (https://github.com/LuxDevHQ/inferential_statistics_test/blob/main/README.md) Inferential Statistics Test, implemented in Python using real datasets like Iris, Tested (Titanic) and Student Performance.
 
 Topics Covered:
 ✅ One-sample t-test
@@ -17,14 +17,14 @@ Topics Covered:
 
 ✅ Effect size calculations
 
-📁 Datasets Used:
+Datasets Used:
 Iris Dataset (for sepal/petal measurements by species)
 
 Student Performance Dataset (for test scores and demographics)
 
-Tested Dataset
+Tested (Titanic) Dataset
 
-🛠 Tools:
+Tools:
 Python
 
 pandas
